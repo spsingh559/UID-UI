@@ -1,0 +1,25 @@
+{
+  "name": "regchain",
+  "version": "0.1.0",
+  "private": true,
+  "proxy":"http://localhost:8080",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "0.9.5",
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^1.9.1",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-router": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
